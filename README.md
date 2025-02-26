@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zain
+- 👋 Hi, I’m zain
 - 👀 I’m interested in make youtube videos
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on ...
