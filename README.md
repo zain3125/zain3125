@@ -1,12 +1,22 @@
-- 👋 Hi, I’m zain
-- 👀 I’m interested in make youtube videos
-- 🌱 I’m currently learning data engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there, I'm Zain 👋
 
-<!---
-zain3125/zain3125 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm an aspiring **Data Engineer** with a passion for building real-world data pipelines and dashboards. I love transforming raw data into insights using tools like Python, SQL, and PySpark.
+
+## 🌱 Currently Learning & Building
+- 📊 Building a Cryptocurrency Market Analysis Analysis (Python, Pandas, SQL)
+- 🔥 Exploring data pipelines with PySpark
+- 🧠 Practicing problem-solving with Kaggle and personal datasets
+
+## 🛠️ Tools & Skills
+- **Languages**: Python, SQL
+- **Libraries**: Pandas, PySpark
+- **Platforms**: Jupyter, VS Code
+- **Concepts**: ETL, data cleaning, basic orchestration
+
+## 🧾 Certifications
+- 🥇 [DataCamp Data Engineer](https://www.datacamp.com/certificate/DE0016535534308)
+- 🧱 [Introduction to PySpark (DataCamp)](https://www.datacamp.com/completed/statement-of-accomplishment/course/8ab6bf9a3ff24ffe04c5188c6f26b1503af00d0f)
+- 📘 [Pandas (Kaggle)](https://www.kaggle.com/learn/certification/zain3125/pandas)
+
+## 📫 Let’s connect
+- [LinkedIn](https://www.linkedin.com/in/zain-mahmoud-440538347/)
