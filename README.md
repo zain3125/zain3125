@@ -2,11 +2,6 @@
 
 I'm an aspiring **Data Engineer** with a passion for building real-world data pipelines and dashboards. I love transforming raw data into insights using tools like Python, SQL, and PySpark.
 
-## 🌱 Currently Learning & Building
-- 📊 Building a payparser_pipeline (Python, Pandas, SQL, Airflow)
-- 🔥 Exploring data pipelines with PySpark
-- 🧠 Practicing problem-solving with Kaggle and personal datasets
-
 ## 🛠️ Tools & Skills
 - **Languages**: Python, SQL
 - **Libraries**: Pandas, PySpark
